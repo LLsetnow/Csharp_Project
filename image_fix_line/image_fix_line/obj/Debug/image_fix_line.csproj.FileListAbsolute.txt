@@ -1,0 +1,10 @@
+D:\Csharp Project\image_fix_line\image_fix_line\obj\Debug\image_fix_line.csproj.AssemblyReference.cache
+D:\Csharp Project\image_fix_line\image_fix_line\obj\Debug\image_fix_line.csproj.CoreCompileInputs.cache
+D:\Csharp Project\image_fix_line\image_fix_line\bin\Debug\image_fix_line.exe.config
+D:\Csharp Project\image_fix_line\image_fix_line\bin\Debug\image_fix_line.exe
+D:\Csharp Project\image_fix_line\image_fix_line\bin\Debug\image_fix_line.pdb
+D:\Csharp Project\image_fix_line\image_fix_line\bin\Debug\System.Drawing.Common.dll
+D:\Csharp Project\image_fix_line\image_fix_line\bin\Debug\System.Drawing.Common.xml
+D:\Csharp Project\image_fix_line\image_fix_line\obj\Debug\image_fix_line.csproj.CopyComplete
+D:\Csharp Project\image_fix_line\image_fix_line\obj\Debug\image_fix_line.exe
+D:\Csharp Project\image_fix_line\image_fix_line\obj\Debug\image_fix_line.pdb

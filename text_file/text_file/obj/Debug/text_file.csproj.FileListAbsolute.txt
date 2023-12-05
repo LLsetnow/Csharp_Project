@@ -1,0 +1,7 @@
+D:\Csharp Project\text_file\text_file\bin\Debug\text_file.exe.config
+D:\Csharp Project\text_file\text_file\bin\Debug\text_file.exe
+D:\Csharp Project\text_file\text_file\bin\Debug\text_file.pdb
+D:\Csharp Project\text_file\text_file\obj\Debug\text_file.csproj.AssemblyReference.cache
+D:\Csharp Project\text_file\text_file\obj\Debug\text_file.csproj.CoreCompileInputs.cache
+D:\Csharp Project\text_file\text_file\obj\Debug\text_file.exe
+D:\Csharp Project\text_file\text_file\obj\Debug\text_file.pdb
