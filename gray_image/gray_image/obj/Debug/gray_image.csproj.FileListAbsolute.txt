@@ -1,0 +1,10 @@
+D:\Csharp Project\gray_image\gray_image\obj\Debug\gray_image.csproj.AssemblyReference.cache
+D:\Csharp Project\gray_image\gray_image\obj\Debug\gray_image.csproj.CoreCompileInputs.cache
+D:\Csharp Project\gray_image\gray_image\bin\Debug\gray_image.exe.config
+D:\Csharp Project\gray_image\gray_image\bin\Debug\gray_image.exe
+D:\Csharp Project\gray_image\gray_image\bin\Debug\gray_image.pdb
+D:\Csharp Project\gray_image\gray_image\bin\Debug\System.Drawing.Common.dll
+D:\Csharp Project\gray_image\gray_image\bin\Debug\System.Drawing.Common.xml
+D:\Csharp Project\gray_image\gray_image\obj\Debug\gray_image.csproj.CopyComplete
+D:\Csharp Project\gray_image\gray_image\obj\Debug\gray_image.exe
+D:\Csharp Project\gray_image\gray_image\obj\Debug\gray_image.pdb
