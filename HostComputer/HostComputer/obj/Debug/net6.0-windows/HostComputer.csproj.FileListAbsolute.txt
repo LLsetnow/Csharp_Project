@@ -1,0 +1,16 @@
+D:\github\Csharp_Project\HostComputer\HostComputer\bin\Debug\net6.0-windows\HostComputer.exe
+D:\github\Csharp_Project\HostComputer\HostComputer\bin\Debug\net6.0-windows\HostComputer.deps.json
+D:\github\Csharp_Project\HostComputer\HostComputer\bin\Debug\net6.0-windows\HostComputer.runtimeconfig.json
+D:\github\Csharp_Project\HostComputer\HostComputer\bin\Debug\net6.0-windows\HostComputer.dll
+D:\github\Csharp_Project\HostComputer\HostComputer\bin\Debug\net6.0-windows\HostComputer.pdb
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\HostComputer.Form1.resources
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\HostComputer.csproj.GenerateResource.cache
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\HostComputer.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\HostComputer.AssemblyInfoInputs.cache
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\HostComputer.AssemblyInfo.cs
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\HostComputer.csproj.CoreCompileInputs.cache
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\HostComputer.dll
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\refint\HostComputer.dll
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\HostComputer.pdb
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\HostComputer.genruntimeconfig.cache
+D:\github\Csharp_Project\HostComputer\HostComputer\obj\Debug\net6.0-windows\ref\HostComputer.dll
